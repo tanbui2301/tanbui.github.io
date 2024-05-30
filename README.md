@@ -1,2 +1,1 @@
-tanbui.github.io
-/index.html
+tanbui.github.io/index.html
